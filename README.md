@@ -1,3 +1,4 @@
+Author/Owner: narsss1234
 # LLM Engineering - Master AI and LLMs
 
 ## Your 8 week journey to proficiency starts today
